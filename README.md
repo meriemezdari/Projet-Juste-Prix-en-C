@@ -271,9 +271,9 @@ Le jeu se joue entièrement dans le **terminal interactif**.
 
 ## Menu du jeu
 
-![Menu du jeu](bureau/menu.png)
+![Menu du jeu](images/menu.png)
 
 ## Exemple de partie
 
-![Niveau 1](niveau1.png)
+![Niveau 1](images/niveau1.png)
 
